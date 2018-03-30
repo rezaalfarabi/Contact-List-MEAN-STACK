@@ -1,2 +1,1 @@
-# Contact-List-MEAN-STACK
-contact list 
+# MEAN crud operation with Angular 1
